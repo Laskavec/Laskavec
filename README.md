@@ -12,11 +12,6 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:dev.team.avecart.design@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://ko-fi.com/K3K3XSDZA" target="_blank">
     <img style='border:0px;height:30px;' src="https://ko-fi.com/img/githubbutton_sm.svg" target="_blank" />
-
-  </a>
 </div>
